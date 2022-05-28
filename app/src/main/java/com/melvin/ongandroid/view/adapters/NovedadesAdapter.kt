@@ -42,14 +42,14 @@ class NovedadesAdapter : ListAdapter<News, NovedadesHolder>(ComparadorNovedades(
                     )
                         .apply {
                             circleConstraint = backImage.id
-                            topMargin = 200
+                            topMargin = 170
                         }
 
-                backImage.setImageResource(R.drawable.ic_baseline_arrow_forward_24)
+                backImage.setImageResource(R.drawable.ic_arrow)
 
                 backImage.layoutParams = ConstraintLayout.LayoutParams(
-                    250,
-                    250
+                    120,
+                    120
                 )
 
                 // add setOnClickListener to the arrow image
