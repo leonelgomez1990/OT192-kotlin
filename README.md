@@ -38,6 +38,13 @@ Somos un equipo de desarrollo y nuestro líder técnico nos comparte el pedido d
   - Arch core
   - Mockito
 
+## Metodología
+- Inicio el 13/04/2022
+- Demo presentación final el 26/05/2022
+- Se realizó utilizando metodologías ágiles: Scrum
+- Sprints de duración una semana
+- Tableros en jira y Trello [Attlasian](https://www.atlassian.com/)
+- Comunicación utilizando Slack y Discord
 
 ## Presentación
 
